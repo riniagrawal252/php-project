@@ -3,7 +3,7 @@ Features
 
 Student Registration: Register new students and manage their personal details.
 
-View Reports: Generate , view performance, Create, update, and delete reports..
+View Reports: Generate , view performance, Create, update, and delete reports.
 
              
 
